@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  idEmployee: MyString
+  fullname: MyString
+  occupation: MyString
+  idBoss: MyString
+
+two:
+  idEmployee: MyString
+  fullname: MyString
+  occupation: MyString
+  idBoss: MyString
